@@ -1,0 +1,1 @@
+Basic HTML website that will have links to recipe pages. The project purpose it to test the knowledge and skills learned from Odin Project HTML foundation.
